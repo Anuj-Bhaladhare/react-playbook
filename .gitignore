@@ -24,6 +24,9 @@ yarn-error.log*
 pnpm-debug.log*
 .eslintcache
 
+# package logs
+package-lock.json
+
 # Editor / IDE Configs
 .vscode/
 .idea/
